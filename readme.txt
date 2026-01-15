@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 Another merge test. solve another bug.
 stash test3.
+pull and push test.
