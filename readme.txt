@@ -5,6 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
-Another merge test. solve a bug.
+Another merge test. solve another bug.
 stash test.
-stash test2.
